@@ -29,9 +29,16 @@
     <dimen name="keyguard_carrier_text_margin">28.244dp</dimen>
 
     <!-- How much into a DisplayCutout's bounds we can go, on each side -->
-    <dimen name="display_cutout_margin_consumption">100.0px</dimen>
+    <dimen name="display_cutout_margin_consumption">97.0px</dimen>
 
     <!--  Total minimum padding to enforce to ensure that the dot can always show  -->
     <dimen name="ongoing_appops_dot_min_padding">22dp</dimen>
+
+    <!-- Insert description here (guess we need something like this) -->
+    <dimen name="rounded_corner_content_padding">16.0dp</dimen>
+
+    <!-- May not actually be in density-independent pixels, just pretend for now -->
+    <dimen name="burnin_protection_horizontal_shift">2.0dp</dimen>
+    <dimen name="burnin_protection_vertical_shift">1.5dp</dimen>
 </resources>
 
