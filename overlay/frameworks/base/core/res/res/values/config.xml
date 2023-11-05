@@ -402,4 +402,7 @@
         <item>2062</item> <!-- <item>sensorLocationY</item> -->
         <item>98</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
+
+    <!-- Whether to enable fp unlock when screen turns off on udfps devices -->
+    <bool name="config_screen_off_udfps_enabled">true</bool>
 </resources>
