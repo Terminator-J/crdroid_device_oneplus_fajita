@@ -423,4 +423,7 @@
 
     <!-- Whether devices suports in-display fingerprint when screen is off -->
     <bool name="config_supportScreenOffUdfps">true</bool>
+
+    <!-- Whether to disable Smart Pixels on UDFPS -->
+    <bool name="config_disableSmartPixelsOnUDFPS">true</bool>
 </resources>
